@@ -22,7 +22,7 @@ Today wide range of smart mobile devices make it possible to create clever appli
 
 2. Unpack the .zip and install to the opt directory.
 
-```$ unzip android-studio*.zip```
+```$ tar axvf android-studio*.tar.gz```
 
 ```$ sudo mv android-studio /opt/android-studio```
 
